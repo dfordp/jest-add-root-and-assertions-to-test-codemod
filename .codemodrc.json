@@ -5,5 +5,15 @@
   "engine": "jscodeshift",
   "private": false,
   "arguments": [],
-  "meta": {}
+  "meta": {
+    "tags": [
+      "radix",
+      "vue",
+      "jest",
+      "v1.9.4",
+      "bug fix",
+      "add root and assertions to test"
+    ],
+    "git" : "https://github.com/dfordp/jest-add-root-and-assertions-to-test-codemod" 
+  }
 }
